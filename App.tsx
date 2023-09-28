@@ -12,6 +12,7 @@ import Feather from 'react-native-vector-icons/dist/Feather';
 import Cards from './src/components/Cards';
 import TitleCards from './src/components/TitleCards';
 
+// work done
 const App = () => {
   return (
     <SafeAreaView style={{flex: 1}}>
